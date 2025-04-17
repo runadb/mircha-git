@@ -1,0 +1,18 @@
+* 23803e7 resolviendo conflictos de estaciones y fechas de inicio
+*   3bf1b01 resolviendo conflictos en estaciones del año y fechs de inicio
+|\  
+| * 218c9c8 agregando estaciones del año
+* | 5f6e193 agregando estaciones del año con fecha de inicio
+|/  
+*   64c40dc Merge branch 'html'
+|\  
+| * cd76c5a vinculando script.js
+* | 82d5b07 vinculando style.css
+* | 66ca5f2 agregando index.js
+* | 569918f agregando style.css
+|/  
+* 89e2ebb agregando index.html
+* 2f55bfd ignorando archivos .exe
+* 103dda8 Creando licencia del repositorio
+* f712d74 agregando contendido al readme
+* e6e29ee Primer commit
